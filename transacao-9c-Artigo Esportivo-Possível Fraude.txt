@@ -1,0 +1,11 @@
+Recomendação:
+
+Com base nas informações fornecidas acerca da transação ID "9c" realizada na data de 21/11/2023 às 21:53:28 horário local, as quais indicam o status como uma "Possível Fraude", a recomendação é realizar as seguintes ações:
+
+1. "Acionar setor Anti-Fraude": O valor da compra de R$ 1103,00 em um estabelecimento na categoria "Esporte C", sob suspeita anterior, todavia localizado em Porto Alegre - RS (Brasil), apresenta alta probabilidade de ser uma transação fraudulenta. Deste modo, o setor Anti-Fraude deve ser acionado para iniciar o procedimento de investigação correspondente ao caso.
+
+2. "Realizar Verificação Manual": Em paralelo à ação anterior, recomenda-se a realização de uma verificação manual da transação para detecção de possíveis irregularidades visíveis apenas neste tipo de verificação.
+
+3. "Notificar Cliente": Notificar o cliente sobre a suspeita de transação fraudulenta, permitindo assim que o mesmo confirme ou não a sua legitimidade, contribuindo para o processo de investigação.
+
+Classificação de fraude potencial: Fraude de Compra Online - esta classificação é baseada no fato de que a transação ocorreu em um estabelecimento de varejo online, possivelmente devido a roubo de informações do cartão ou tentativa de uso não autorizado do mesmo.

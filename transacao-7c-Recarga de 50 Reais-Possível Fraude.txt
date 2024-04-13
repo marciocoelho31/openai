@@ -1,0 +1,9 @@
+Recomendação: 
+
+Dado o parecer encontrado e a natureza do status da transação, minha recomendação seria da seguinte forma:
+
+- Em primeiro lugar, é importante "Notificar o Cliente". Informe o cliente sobre a transação suspeita e pergunte se ele reconhece a transação. Isto poderá auxiliar no esclarecimento dessa transação, pois o cliente será capaz de confirmar ou negar a legitimidade da mesma.
+- Segundo, "Acionar o Setor Anti-Fraude". Com base na discrepância evidente entre o valor de produto e o valor da transação, existe uma alta probabilidade de atividade fraudulenta. Forneça todas as informações relevantes ao setor anti-fraude para facilitar a investigação.
+- Em terceiro lugar, proponho "Realizar Verificação Manual". Uma análise mais aprofundada será necessária para esta transação, a fim de determinar sua legitimidade e provide sinais de potenciais fraudes.
+
+Classificação de Fraude: Esta fraude pode ser categorizada como Fraude de Comércio Eletrônico, especificamente, provavelmente uma forma de Fraude de Preço, onde o preço carregado no cartão de crédito é significativamente diferente do valor real do produto ou serviço adquirido.
